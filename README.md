@@ -165,8 +165,8 @@ The dataset contains 10 standardized medical predictor variables.
 ## Project Structure
 
 ```text
-├── Titanic_DecisionTree_Classification.ipynb
-├── Diabetes_DecisionTree_Regression.ipynb
+├── decision_tree_classifier.ipynb
+├── decision_tree_regressor.ipynb
 ├── README.md
 ```
 
