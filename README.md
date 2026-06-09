@@ -1,0 +1,2 @@
+# Decision-Tree-Classification-and-Regression-using-Scikit-Learn
+A machine learning project demonstrating Decision Tree Classification on the Titanic dataset and Decision Tree Regression on the Diabetes dataset. The project covers data preprocessing, handling missing values, encoding categorical features, model training, pruning techniques, performance evaluation, and tree visualization using Scikit-Learn.
